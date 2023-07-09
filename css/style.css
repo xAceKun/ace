@@ -491,7 +491,7 @@ h1, h2, h3, h4, h5, h6, figure {
   backround: #fff;
 }
 #fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
-  margin-top: 150px;
+  margin-top: 75px;
 }
 @media screen and (max-width: 480px) {
   #fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
